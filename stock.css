@@ -96,9 +96,12 @@ iframe {
 }
 
 @media only screen and (orientation: landscape) {
-  body {
-    background-color: lightblue;
-  }
+    iframe {
+    
+        width:800px; 
+        height:555px; 
+    
+      }
 }
 
 /* 
